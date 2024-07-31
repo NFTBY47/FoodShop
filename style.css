@@ -1,0 +1,161 @@
+.boddy {
+    background-color: rgb(92, 58, 58);
+    
+}
+
+.txt-head {
+    text-align: center;
+    color: rgb(203, 221, 215);
+    
+}
+
+.img-head {
+    width: 350px;
+    height: 200px;
+    border-radius: 15em;
+    margin: auto auto 0;
+}
+
+.images-head {
+    display: flex;
+    align-items: center;
+
+}
+
+.img-tel, .img-help {
+    width: 50px;
+    
+}
+
+.button-call, .button-help {
+    border-radius: 15em;
+    color: bisque;
+    background-color: rgb(167, 227, 200);
+}
+
+.button-menu{
+    display: flex;
+    justify-content: space-between;
+    margin: auto auto 0;
+    margin-top: -250px;
+}
+
+.menu-info {
+    text-align: center;
+    margin-top: 230px;
+    color: rgb(203, 221, 215);
+}
+
+.hrr {
+    margin: -30px auto 10px;
+	padding: 0;
+	height: 50px;
+	border: none;
+	border-bottom: 1px solid #1f1209;
+	box-shadow: 0 20px 20px -20px #333;
+	width: 95%;
+    margin-top: -70px;
+}
+
+
+.pizza-button {
+    background-color: rgb(195, 215, 123);
+    border-color: #050504;
+    border-radius: 3em;
+    margin-right: 12px;
+}
+
+.humburger-button {
+    background-color: rgb(195, 215, 123);
+    border-color: #050504;
+    border-radius: 3em;
+    margin-right: 12px;
+    
+}
+
+.soda-button {
+    background-color: rgb(195, 215, 123);
+    border-color: #050504;
+    border-radius: 3em;
+    margin-right: 12px;
+}
+
+.menu-cards-1 {
+    display: flex;
+    justify-content: center;
+    
+}
+
+
+.txt-pop{
+    text-align: center;
+    color: rgb(195, 215, 123);
+}
+
+.txt-combo{
+    text-align: center;
+    color: rgb(219, 208, 58);
+}
+
+.combo-1 {
+    background-color: rgb(219, 208, 58);
+    border-color: #050504;
+    border-radius: 3em;
+    margin-right: 12px; 
+}
+
+
+.combo-2 {
+    background-color: rgb(219, 208, 58);
+    border-color: #050504;
+    border-radius: 3em;
+    margin-right: 12px; 
+}
+
+.combo-3 {
+    background-color: rgb(219, 208, 58);
+    border-color: #050504;
+    border-radius: 3em;
+    margin-right: 12px; 
+}
+
+.menu-cards-2 {
+    display: flex;
+    justify-content: center;
+}
+
+.txt-humburgers {
+    text-align: center;
+    color: bisque;
+}
+
+.humburger-1 {
+    background-color: bisque;
+    border-color: #050504;
+    border-radius: 3em;
+    margin-right: 12px; 
+}
+
+.humburger-humburgers {
+    background-color: bisque;
+    border-color: #050504;
+    border-radius: 3em;
+    margin-right: 12px;
+}
+
+.FishBurger{
+    background-color: bisque;
+    border-color: #050504;
+    border-radius: 3em;
+    margin-right: 12px;
+}
+
+.menu-cards-3 {
+    display: flex;
+    justify-content: center;
+}
+
+.hr-menu{
+    border: none;
+	border-top: 2px dashed #0b0202;
+}
